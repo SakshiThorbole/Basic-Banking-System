@@ -4,4 +4,5 @@ It is a simple web application to make transactions between users, see all the u
 
 Technologies Used:
 Frontend : HTML, CSS, BOOTSTRAP, JAVASCRIPT
+
 IDE: Visual Studio Code
